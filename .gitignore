@@ -1,0 +1,13 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Original course data are kept locally until redistribution rights are clear.
+data/raw/
+
+# Local notebook exports and temporary files.
+*.html
+*.log
+tmp/
